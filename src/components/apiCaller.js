@@ -28,9 +28,9 @@ export default class ApiCaller extends Component {
   render() {
     return (
       <div className='apiCaller'>
-        <h1>This is My awesome Api ApiCaller</h1>
-        <h2>React Redux Router</h2>
-        <div>{this.state.emails}</div>
+        <h1>This is My awesome Api Caller</h1>
+        <h3>Please mess with me more</h3>
+        <h1>{this.state.emails}</h1>
       </div>
     );
   }

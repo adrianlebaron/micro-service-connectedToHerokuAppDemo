@@ -7,8 +7,8 @@ export default class App extends Component {
       <div className='app'>
 
         <ApiCaller />
-        <p>These are the emails</p>
-        <h1>DevCamp React Starter</h1>
+        <h1>These are the emails</h1>
+        <h3>DevCamp React Starter</h3>
         <h2>React Redux Router</h2>
       </div>
     );
